@@ -19,7 +19,7 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 <p style="text-align: justify;">- M.Sc., Sustainable Development	         | KU Leuven</p>	
 <p style="text-align: justify;">- B.A., Sociology                            | Pontificia Universidad Católica del Perú</p>	
 
-## Research Projects
+## Projects
 ### Environmental crimes in Protected Areas in Peru: exploring penetration mechanisms and environmental impacts
 Social and Economic Research Council – Researcher
 ### Oil spills and its impacts on the health of indigenous peoples of the Peruvian Amazon
