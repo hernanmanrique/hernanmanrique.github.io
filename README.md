@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Page Title</title>
+    <style>
+        /* Add bottom margin to nav to create space */
+        .nav-spacing {
+            margin-bottom: 20px; /* Adjust this value as needed */
+        }
+    </style>
+</head>
+<body>
+
 <nav class="nav-spacing">
     <a href="#home">Home</a> |
     <a href="#education">Education</a> |
