@@ -35,8 +35,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <p>•	Rousseau, S. & Manrique López, H. (2019). La autonomía indígena «tutelada» en Bolivia. Bulletin de l’Institut Francais d’Études Andines, 49, 1-19. </p>
 <p>•	Manrique López, H. & Armas, N. Á. P. (2019). Cocaína peruana: análisis bibliográfico de la investigación sobre el tráfico ilícito de drogas cocaínicas en Perú. Cultura y Droga, 24(27). 15-38. </p>
 <p>•	Manrique López, H. (2017). El largo camino hacia la economía lícita: Estado y estrategias de desarrollo alternativo en el «milagro de San Martín». Revista de Ciencia Politica y Gobierno, 4 (7), 161-189. </p>
-<p>•	Manrique López, H. (2015). Las bases históricas del «milagro de San Martín»: control territorial y estrategias estatales contra el narcotráfico y subversión (1980-1995). Politai, 6 (11), 33-51. </p>
-<p>•	Manrique López, H. (2015). Política de drogas y narcotráfico en el Perú: del triunfalismo peruano al laberinto de la cocaína. Cultura y Droga, 20(22), 64-85. </p>
+<p style="text-align: justify;">•	Manrique López, H. (2015). Las bases históricas del «milagro de San Martín»: control territorial y estrategias estatales contra el narcotráfico y subversión (1980-1995). Politai, 6 (11), 33-51. </p>
+<p style="text-align: justify;">•	Manrique López, H. (2015). Política de drogas y narcotráfico en el Perú: del triunfalismo peruano al laberinto de la cocaína. Cultura y Droga, 20(22), 64-85. </p>
 
 ### Books
 <p>•	Manrique López, H. & Sanborn, C. (2021). La minería en el Perú: balance y perspectivas de cinco décadas de investigación. Universidad del Pacífico. ISBN: 978-9972-57-458-0. </p>
