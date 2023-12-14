@@ -1,5 +1,5 @@
 title: Hernán Manrique
-logo: /assets/img/citation2.png
+![Logo](/assets/img/citation2.png){: style="margin-left: 20px;"}
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
