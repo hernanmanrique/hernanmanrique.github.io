@@ -1,13 +1,10 @@
 <nav>
-  <ul>
-    <li><a href="#home">Home</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#publications">Publications</a></li>
-    <li><a href="https://github.com/hernanmanrique">GitHub Profile</a></li>
-  </ul>
-</nav>
-
+    <a href="#home">Home</a> |
+    <a href="#education">Education</a> |
+    <a href="#projects">Projects</a> |
+    <a href="#publications">Publications</a> |
+    <a href="https://github.com/hernanmanrique">GitHub Profile</a> |
+  </nav>
 
 
 
