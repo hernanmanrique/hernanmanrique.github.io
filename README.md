@@ -14,10 +14,10 @@
 I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuven in Belgium using Land Use modeling, Geographic Information Systems and mixed methods to assess the environmental impacts of drug trafficking in Peruvian Amazonia. </p>
 
 ## Education
-<p style="text-align: justify;">- Ph.D.(c), Biology                          | KU Leuven</p>					       		
-<p style="text-align: justify;">- M.Sc.(c), Statistics & Social Data Science | KU Leuven</p>		
-<p style="text-align: justify;">- M.Sc., Sustainable Development	         | KU Leuven</p>	
-<p style="text-align: justify;">- B.A., Sociology                            | Pontificia Universidad Católica del Perú</p>	
+- Ph.D.(c), Biology                          | KU Leuven					       		
+- M.Sc.(c), Statistics & Social Data Science | KU Leuven		
+- M.Sc., Sustainable Development	         | KU Leuven	
+- B.A., Sociology                            | Pontificia Universidad Católica del Perú
 
 ## Projects
 <h3 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h3>
