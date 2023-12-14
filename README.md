@@ -26,7 +26,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Publications
 ### Journal articles
-<p>•	Manrique López, H. M. & Orihuela, J.C. (2024). TSlow environmental justice: The Cuninico oil spill and the legal struggle against oil pollution in Peruvian Amazonia. Environmental Politics (<i>forthcoming</i>).</p>
+<p>•	Manrique López, H. M. & Orihuela, J.C. (2024). Slow environmental justice: The Cuninico oil spill and the legal struggle against oil pollution in Peruvian Amazonia. Environmental Politics (<i>forthcoming</i>).</p>
 <p>•	Busnel, R., & Manrique López, H. M. (2023). The political economy of a failed drug reform: Insights from Peru’s main legal coca valley. International Journal of Drug Policy, 117, 104050. </p>
 <p>•	Grillo, L., Kendra, A., Pastor, A. & Manrique López, H. (2021). Desafíos socioambientales y las consecuencias indeseadas de la política antidrogas peruana: un análisis en dos antiguos valles cocaleros. Journal of Illicit Economies and Development, 3(1), pp. 97–118. </p>
 <p>•	Grillo, L., Kendra, A., Pastor, A. & Manrique López, H. (2021). Addressing Socio-Environmental Challenges and Unintended Consequences of Peruvian Drug Policy: An Analysis in Two Former Cocalero Valleys. Journal of Illicit Economies and Development, 3 (1), 97-117. </p>
