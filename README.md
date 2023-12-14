@@ -4,10 +4,10 @@ My name is Hernán Manrique. I am a Peruvian interdisciplinary researcher, GIS e
 I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuven in Belgium. 
 
 ## Education
-- Ph.D.(c), Biology                          | KU Leuven 							       		
-- M.Sc.(c), Statistics & Social Data Science | KU Leuven    		
-- M.Sc., Sustainable Development	           | KU Leuven
-- B.A., Sociology                            | KU Leuven
+<p style="text-align: justify;">- Ph.D.(c), Biology                          | KU Leuven</p>					       		
+<p style="text-align: justify;">- M.Sc.(c), Statistics & Social Data Science | KU Leuven</p>		
+<p style="text-align: justify;">- M.Sc., Sustainable Development	           | KU Leuven</p>	
+<p style="text-align: justify;">- B.A., Sociology                            | KU Leuven</p>	
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
