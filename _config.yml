@@ -1,15 +1,7 @@
 title: Hernán Manrique
-logo: /assets/img/29150790.jpg
+logo: /assets/img/citations.jpg
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Site Author
-author:
-  name             : "Your Sidebar Name"
-  avatar           : "citations.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+
