@@ -1,10 +1,10 @@
-<nav>
+<nav class="nav-spacing">
     <a href="#home">Home</a> |
     <a href="#education">Education</a> |
     <a href="#projects">Projects</a> |
     <a href="#publications">Publications</a> |
     <a href="https://github.com/hernanmanrique">GitHub Profile</a> |
-  </nav>
+</nav>
 
 
 
