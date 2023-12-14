@@ -54,10 +54,6 @@ Social Science Research Council – Research assistant
 <p style="text-align: justify;">•	Rousseau, S., & Manrique Lopez, H. (2020). L’autonomie autochtone «sous tutelle» en Bolivie. En: À la reconquête de la souveraineté: mouvements autochtones en Amérique Latine et en Océanie, (73-96). Presses de l’Université Laval.</p>
 <p style="text-align: justify;">•	Paredes, M., Manrique López, H. (2018). Ideas of modernization and territorial transformation: the case of the Upper Huallaga Valley. In: The Origins of Cocaine: Colonization and Failed Development in the Amazon Andes, (53-83). Routledge. ISBN: 9780429489389. </p>
 
-
-![Logo](/assets/img/citation2.png){: style="margin-left: 20px;"}
-
-
 ### Technical reports
 <p style="text-align: justify;">•	Manrique López, H. (2022). La Empresa Nacional de la Coca (ENACO) y el fracaso del monopolio estatal de la hoja de coca en Perú: una mirada a los debates contemporáneos. Cuaderno de Trabajo N.62. Lima: Departamento de Ciencias Sociales - PUCP. </p>
 <p style="text-align: justify;">•	Parra, F., Manrique López, H. & Martínez, V. (2020). Derrames de petróleo y afectación a la salud materno infantil en pueblos indígenas de la Amazonía peruana. Lima: CIES & Universidad del Pacífico. </p>
