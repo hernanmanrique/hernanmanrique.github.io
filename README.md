@@ -31,7 +31,7 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 </p>
 <p style="text-align: justify;">
   <ul>
-    <li>Ph.D.(c), B.A., Sociology | Pontificia Universidad Católica del Perú</li>
+    <li>B.A., Sociology | Pontificia Universidad Católica del Perú</li>
   </ul>
 </p>
 				
