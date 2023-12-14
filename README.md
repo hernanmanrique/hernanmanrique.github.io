@@ -1,3 +1,12 @@
+<nav>
+  <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;">
+    <li style="float: left;"><a href="#hello-and-welcome-to-my-site" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Home</a></li>
+    <li style="float: left;"><a href="#education" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Education</a></li>
+    <li style="float: left;"><a href="#projects" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Projects</a></li>
+    <li style="float: left;"><a href="#publications" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Publications</a></li>
+    <!-- Add more list items here for other sections -->
+  </ul>
+</nav>
 
 
 
