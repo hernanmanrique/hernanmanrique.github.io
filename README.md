@@ -7,7 +7,7 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 <p style="text-align: justify;">- Ph.D.(c), Biology                          | KU Leuven</p>					       		
 <p style="text-align: justify;">- M.Sc.(c), Statistics & Social Data Science | KU Leuven</p>		
 <p style="text-align: justify;">- M.Sc., Sustainable Development	           | KU Leuven</p>	
-<p style="text-align: justify;">- B.A., Sociology                            | KU Leuven</p>	
+<p style="text-align: justify;">- B.A., Sociology                            | Pontificia Universidad Católica del Perú</p>	
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
