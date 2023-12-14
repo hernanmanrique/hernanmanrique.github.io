@@ -22,17 +22,17 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 ## Projects
 <h3 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h3>
 Fonds Wetenschappelijk Onderzoek - PhD Researcher
-### Environmental crimes in Protected Areas in Peru: exploring penetration mechanisms and environmental impacts
+<h3 style="text-align: justify;">Environmental crimes in Protected Areas in Peru: exploring penetration mechanisms and environmental impacts</h3>
 Social and Economic Research Council – Researcher
-### Oil spills and its impacts on the health of indigenous peoples of the Peruvian Amazon
+<h3 style="text-align: justify;">Oil spills and its impacts on the health of indigenous peoples of the Peruvian Amazon</h3>
 Social and Economic Research Council – Main researcher
-### Study on Prior Consultation and Chinese mining investments in Peru
+<h3 style="text-align: justify;">Study on Prior Consultation and Chinese mining investments in Peru</h3>
 Research Centre at the University of the Pacific – Research assistant
-### Rights abuse allegations in the context of REDD+ readiness and implementation
+<h3 style="text-align: justify;">Rights abuse allegations in the context of REDD+ readiness and implementation</h3>
 Centre for International Forestry Research - Consultant
-### Study of REDD+ Necessities
+<h3 style="text-align: justify;">Study of REDD+ Necessities</h3>
 Food and Agriculture Organization (FAO) - Consultant
-### Drugs, Security and Democracy
+<h3 style="text-align: justify;">Drugs, Security and Democracy</h3>
 Social Science Research Council – Research assistant
 
 ## Publications
