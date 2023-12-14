@@ -20,7 +20,7 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 <p style="text-align: justify;">- B.A., Sociology                            | Pontificia Universidad Católica del Perú</p>	
 
 ## Projects
-<h1 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h1>
+<h3 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h3>
 Fonds Wetenschappelijk Onderzoek - PhD Researcher
 ### Environmental crimes in Protected Areas in Peru: exploring penetration mechanisms and environmental impacts
 Social and Economic Research Council – Researcher
