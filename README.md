@@ -17,7 +17,7 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 ## Education
 <p style="text-align: justify;">
   <ul>
-    <li>Ph.D.(c), Biology | KU Leuven</li>
+    <li>Ph.D.(c), Biology (Ecology, Evolution and Biodiversity Conservation)| KU Leuven</li>
   </ul>
 </p>
 <p style="text-align: justify;">
