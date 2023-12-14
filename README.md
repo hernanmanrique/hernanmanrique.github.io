@@ -11,12 +11,12 @@
 # Hello and welcome to my site!
 
 My name is Hernán Manrique. I am a Peruvian interdisciplinary researcher, GIS enthusiast and data scientist.
-I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuven in Belgium using GIS and mixed methods to assess the environmental impacts of drug trafficking in Peruvian Amazonia. 
+I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuven in Belgium using Land Use modeling, Geographic Information Systems and mixed methods to assess the environmental impacts of drug trafficking in Peruvian Amazonia. 
 
 ## Education
 <p style="text-align: justify;">- Ph.D.(c), Biology                          | KU Leuven</p>					       		
 <p style="text-align: justify;">- M.Sc.(c), Statistics & Social Data Science | KU Leuven</p>		
-<p style="text-align: justify;">- M.Sc., Sustainable Development	           | KU Leuven</p>	
+<p style="text-align: justify;">- M.Sc., Sustainable Development	         | KU Leuven</p>	
 <p style="text-align: justify;">- B.A., Sociology                            | Pontificia Universidad Católica del Perú</p>	
 
 ## Projects
