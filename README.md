@@ -4,7 +4,7 @@
     <a href="#education">Education</a> |
     <a href="#projects">Projects</a> |
     <a href="#publications">Publications</a> |
-    <a href="https://github.com/hernanmanrique">GitHub Profile</a> |
+    <a href="https://github.com/hernanmanrique">GitHub</a> |
 </nav>
 
 <p></p>
@@ -12,7 +12,7 @@
 # Hello and welcome to my site!
 
 <p style="text-align: justify;">My name is Hernán Manrique. I am a Peruvian interdisciplinary researcher, data scientist and GIS enthusiast.
-I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuven in Belgium where I use Land Use Modeling, Geographic Information Systems and Mixed Methods to assess the environmental impacts of drug trafficking in Peruvian Amazonia. </p>
+I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuven. In my PhD, I use Land Use Modeling, Geographic Information Systems and Mixed Methods to assess the environmental impacts of drug trafficking in Peruvian Amazonia. </p>
 
 ## Education
 <p style="text-align: justify;">
@@ -54,7 +54,6 @@ Social Science Research Council – Research assistant
 
 ## Publications
 ### Journal articles
-<p style="text-align: justify;">•	Manrique López, H. M. & Orihuela, J.C. (2024). Slow environmental justice: The Cuninico oil spill and the legal struggle against oil pollution in Peruvian Amazonia. Environmental Politics (<i>forthcoming</i>).</p>
 <p style="text-align: justify;">•	Busnel, R., & Manrique López, H. M. (2023). The political economy of a failed drug reform: Insights from Peru’s main legal coca valley. International Journal of Drug Policy, 117, 104050. </p>
 <p style="text-align: justify;">•	Grillo, L., Kendra, A., Pastor, A. & Manrique López, H. (2021). Desafíos socioambientales y las consecuencias indeseadas de la política antidrogas peruana: un análisis en dos antiguos valles cocaleros. Journal of Illicit Economies and Development, 3(1), pp. 97–118. </p>
 <p style="text-align: justify;">•	Grillo, L., Kendra, A., Pastor, A. & Manrique López, H. (2021). Addressing Socio-Environmental Challenges and Unintended Consequences of Peruvian Drug Policy: An Analysis in Two Former Cocalero Valleys. Journal of Illicit Economies and Development, 3 (1), 97-117. </p>
