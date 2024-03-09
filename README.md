@@ -37,6 +37,8 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 </p>
 				
 ## Projects
+<h3 style="text-align: justify;">Illicit economies and deforestation in the Peruvian Amazon: exploration of their drivers and penetration mechanisms in the Reserva Comunal El Sira </h3>
+Social and Economic Research Council – Researcher
 <h3 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h3>
 Fonds Wetenschappelijk Onderzoek - PhD Researcher
 <h3 style="text-align: justify;">Environmental crimes in Protected Areas in Peru: exploring penetration mechanisms and environmental impacts</h3>
@@ -54,7 +56,8 @@ Social Science Research Council – Research assistant
 
 ## Publications
 ### Journal articles
-<p style="text-align: justify;">•	Busnel, R., & Manrique López, H. M. (2023). The political economy of a failed drug reform: Insights from Peru’s main legal coca valley. International Journal of Drug Policy, 117, 104050. </p>
+<p style="text-align: justify;">•	Manrique López, H. & Orihuela, J.C. (2024). Slow environmental justice: the Cuninico oil spill and the legal struggle against oil pollution in Peruvian Amazonia. Environmental Politics. </p>
+<p style="text-align: justify;">•	Busnel, R., & Manrique López, H. (2023). The political economy of a failed drug reform: Insights from Peru’s main legal coca valley. International Journal of Drug Policy, 117, 104050. </p>
 <p style="text-align: justify;">•	Grillo, L., Kendra, A., Pastor, A. & Manrique López, H. (2021). Desafíos socioambientales y las consecuencias indeseadas de la política antidrogas peruana: un análisis en dos antiguos valles cocaleros. Journal of Illicit Economies and Development, 3(1), pp. 97–118. </p>
 <p style="text-align: justify;">•	Grillo, L., Kendra, A., Pastor, A. & Manrique López, H. (2021). Addressing Socio-Environmental Challenges and Unintended Consequences of Peruvian Drug Policy: An Analysis in Two Former Cocalero Valleys. Journal of Illicit Economies and Development, 3 (1), 97-117. </p>
 <p style="text-align: justify;">•	Paredes, M. & Manrique López, H. (2021). The State’s Developmentalist Illusion and the Origins of Illegal Coca Cultivation in Peru’s Alto Huallaga Valley (1960–80). Journal Of Latin American Studies, 53 (2), 1-23. </p>
