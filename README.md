@@ -17,7 +17,7 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 ## Education
 <p style="text-align: justify;">
   <ul>
-    <li>Ph.D.(c), Biology (Ecology, Evolution and Biodiversity Conservation)| KU Leuven</li>
+    <li>Ph.D.(c), Conservation Biology (Ecology, Evolution and Biodiversity Conservation)| KU Leuven</li>
   </ul>
 </p>
 <p style="text-align: justify;">
@@ -37,11 +37,9 @@ I currently work as a FWO-PhD researcher at the Department of Biology at KU Leuv
 </p>
 				
 ## Projects
+<h3 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h3>
 <h3 style="text-align: justify;">Illicit economies and deforestation in the Peruvian Amazon: exploration of their drivers and penetration mechanisms in the Reserva Comunal El Sira </h3>
 Social and Economic Research Council – Researcher
-<h3 style="text-align: justify;">Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon</h3>
-Fonds Wetenschappelijk Onderzoek - PhD Researcher
-<h3 style="text-align: justify;">Environmental crimes in Protected Areas in Peru: exploring penetration mechanisms and environmental impacts</h3>
 Social and Economic Research Council – Researcher
 <h3 style="text-align: justify;">Oil spills and its impacts on the health of indigenous peoples of the Peruvian Amazon</h3>
 Social and Economic Research Council – Main researcher
