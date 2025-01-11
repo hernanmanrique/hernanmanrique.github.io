@@ -12,13 +12,27 @@ My name is Hernán Manrique. I am a Peruvian interdisciplinary researcher, data 
 Education
 ======
 
-Ph.D.(c), Conservation Biology (Ecology, Evolution and Biodiversity Conservation) - KU Leuven
+<p style="text-align: justify;">
+  <ul>
+    <li>Ph.D.(c), Conservation Biology (Ecology, Evolution and Biodiversity Conservation)| KU Leuven</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>M.Sc.(c), Statistics & Social Data Science | KU Leuven</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>M.Sc., Sustainable Development | KU Leuven</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>B.A., Sociology | Pontificia Universidad Católica del Perú</li>
+  </ul>
+</p>
 
-M.Sc.(c), Statistics & Social Data Science - KU Leuven
-
-M.Sc., Sustainable Development -  KU Leuven
-
-B.A., Sociology - Pontificia Universidad Católica del Perú
 
 Getting started
 ======
