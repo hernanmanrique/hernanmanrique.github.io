@@ -33,17 +33,12 @@ Education
   </ul>
 </p>
 
-Interests
+Skills
 ------
 
 <p style="text-align: justify;">
   <ul>
-    <li>Data Science (R, Python)</li>
-  </ul>
-</p>
-<p style="text-align: justify;">
-  <ul>
-    <li>Statistical modeling</li>
+    <li>Statistics & Data Science (R, Python)</li>
   </ul>
 </p>
 <p style="text-align: justify;">
@@ -53,9 +48,20 @@ Interests
 </p>
 <p style="text-align: justify;">
   <ul>
+    <li>Spatial modeling</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
     <li>Mixed Methods</li>
   </ul>
 </p>
+<p style="text-align: justify;">
+  <ul>
+    <li>Qualitative Methods</li>
+  </ul>
+</p>
+
 
 
 
