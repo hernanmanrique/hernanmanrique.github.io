@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Publications"
+permalink: /publications/
+---
+
 ## Publications
 ### Journal articles
 <p style="text-align: justify;">•	Manrique López, H. & Orihuela, J.C. (2024). Slow environmental justice: the Cuninico oil spill and the legal struggle against oil pollution in Peruvian Amazonia. Environmental Politics. </p>
