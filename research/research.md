@@ -1,5 +1,6 @@
 ---
 title: "Research 1"
+layout: single
 collection: research
 type: "Undergraduate course"
 permalink: /research/
