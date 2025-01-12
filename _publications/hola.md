@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: true
+
 ---
 
 Here you can find some of my publications. For more info, click [here](https://scholar.google.com/citations?user=6iDYX1AAAAAJ&hl=en) to go to my Google Scholar profile 🙂
