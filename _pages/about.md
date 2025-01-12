@@ -33,5 +33,30 @@ Education
   </ul>
 </p>
 
+Interests
+------
+
+<p style="text-align: justify;">
+  <ul>
+    <li>Data Science (R, Python)</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>Statistical modeling</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>Geographic Information Systems</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>Mixed Methods</li>
+  </ul>
+</p>
+
+
 
 
