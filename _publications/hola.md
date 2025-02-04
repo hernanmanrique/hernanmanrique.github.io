@@ -11,6 +11,7 @@ Here you can find some of my publications. For more info, click [here](https://s
 ## Publications
 
 ### 📃 Journal articles
+- **Manrique, H., & Hernando, D. (2025).** *Negotiating extraction: Indigenous peoples and the upscaling of artisanal and small-scale mining in the central Peruvian Amazon.* *The Extractive Industries and Society*, **22**, 101616.
 - **Manrique, H., & Hernando, D. (2024).** *Cultivo de coca y minería ilegal en la Amazonía peruana.* *Debates en Sociología*, **59**, 118-146.
 - **Manrique, H., & Orihuela, J. C. (2024).** *Slow environmental justice: the Cuninico oil spill and the legal struggle against oil pollution in Peruvian Amazonia.* *Environmental Politics*, 1-24.
 - **Busnel, R., & Manrique, H. (2023).** *The political economy of a failed drug reform: Insights from Peru’s main legal coca valley.* *International Journal of Drug Policy*, **117**, 104050.
