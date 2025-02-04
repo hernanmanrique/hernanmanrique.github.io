@@ -27,6 +27,3 @@ My doctoral project, funded by the Fonds Wettenschappelijk Onderzoek (FWO), is a
 - **[Busnel, R., & Manrique, H. (2023). The political economy of a failed drug reform: Insights from Peru’s main legal coca valley. International Journal of Drug Policy, 117, 104050](https://www.sciencedirect.com/science/article/abs/pii/S0955395923000981)**
 - **[Manrique, H., & Hernando, D. (2024). Cultivo de coca y minería ilegal en la Amazonía peruana. Debates en Sociología, (59), 118-146.](https://revistas.pucp.edu.pe/index.php/debatesensociologia/article/view/28211)**
 
-### Collaborations
-- [Institution 1](#)
-- [Institution 2](#)
