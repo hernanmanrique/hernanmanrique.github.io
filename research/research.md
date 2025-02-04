@@ -9,7 +9,7 @@ location: "City, Country"
 
 Please find an overview of some of my previous and current research here:
 
-## Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon (2021-2025)
+## [Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon (2021-2025)](/research/conservation-extraction/)
 
 My doctoral project, funded by the Fonds Wettenschappelijk Onderzoek (FWO), is an interdisciplinary research effort. It involves integrating different methodological approaches to evaluate the socio-ecological change brought by the rise of coca cultivation in the Peruvian Amazon.
 
