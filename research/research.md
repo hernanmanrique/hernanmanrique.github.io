@@ -7,7 +7,7 @@ permalink: /research/
 location: "City, Country"
 ---
 
-Please find an overview of some of my current research here
+Please find an overview of some of my previous and current research here:
 
 ## Between conservation and extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon (2021-2025)
 
