@@ -4,7 +4,6 @@ layout: single
 collection: research
 type: "Undergraduate course"
 permalink: /research/
-date: 2014-01-01
 location: "City, Country"
 ---
 
@@ -16,7 +15,7 @@ My doctoral project, funded by the Fonds Wettenschappelijk Onderzoek (FWO), is a
 
 ## 2.State of environmental defenders in the Peruvian Amazon: Evaluating deforestation and environmental crimes in indigenous lands (2024-2025)
 
-This ongoing collaboration with the a local NGO, Propurús, represents an innovative effort of environmental advocacy in Peru. Using, Geographic Information Systems, remote sensing and fieldwork, Propurús seeks to uncover the real extent of environmental crimes in the Peruvian Amazon.
+This ongoing collaboration with a local Peruvian NGO, Propurús, represents an innovative effort of environmental advocacy in the Peruvian Amazon. Using, Geographic Information Systems, remote sensing and fieldwork, Propurús seeks to uncover the real extent of environmental crimes in the Amazonian regions of Peru.
 
 ## 3. Illegal mining and coca cultivation in the buffer zone of the El Sira Communal Reserve: exploration of their infiltration mechanisms and impacts on forest loss (2023-2024)
 
