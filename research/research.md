@@ -35,4 +35,4 @@ This consultancy for Centre for International Forestry Research delve into right
 This project funded by  Universidad Laval, in which I served as a research assistant of Dr. Stéphanie Rousseau (Pontificia Universidad Católica del Perú) focused on the rise of indigenous governance structures in the Bolivian Andes.
 
 ## Drugs, Security and Democracy (2015-2016)
-This project, in which I served as a research assistant to Dr. Maritza Paredes at PUCP, aimed to disentangle the origins and dynamics of drug trafficking within the Latin American region.
+This project, funded by Social Science Research Council, in which I served as a research assistant to Dr. Maritza Paredes at PUCP, aimed to disentangle the origins and dynamics of drug trafficking within the Latin American region.
