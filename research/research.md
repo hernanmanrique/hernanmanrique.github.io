@@ -25,8 +25,8 @@ This project, funded by Consorcio de Investigación Económica y Social (CIES), 
 
 This project, funded by Consorcio de Investigación Económica y Social (CIES), explored the environmental and health impacts of the largest inland oil spill on Kukama communities in lower Amazonia.
 
-## Prior Consultation and Chinese Investments in Mining (2017-2018)
-This project, in which I served as a research assistant to Dr. Cynthia Sanborn at Pacific University, focused on how Chinese investments in miningintersect with local governance structures in Latin America.
+## Prior Consultation and Chinese Investments in Ore Mining in Latin America (2017-2018)
+This project, in which I served as a research assistant to Dr. Cynthia Sanborn at Pacific University, focused on how Chinese investments in mining intersect with local governance structures in Latin America.
 
 ## Rights abuse allegations in the context of REDD+ readiness and implementation (2017)
 This consultancy for Centre for International Forestry Research delve into rights abuse allegations of land grabbing in the context of REDD+ readiness and implementation in tropical countries.
