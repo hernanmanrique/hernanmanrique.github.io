@@ -38,7 +38,7 @@ Skills
 
 <p style="text-align: justify;">
   <ul>
-    <li>Statistics & Data Science (R, Python, JavaScript for GEE)</li>
+    <li>Statistics & Data Science</li>
   </ul>
 </p>
 <p style="text-align: justify;">
@@ -62,7 +62,27 @@ Skills
   </ul>
 </p>
 
+Programming languages
+------
 
-
+<p style="text-align: justify;">
+  <ul>
+    <li>R</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>Python</li>
+  </ul>
+</p>
+<p style="text-align: justify;">
+  <ul>
+    <li>JavaScript for GEE</li>
+    </p>
+<p style="text-align: justify;">
+  <ul>
+    <li>HTML & CSS</li>
+  </ul>
+</p>
 
 
