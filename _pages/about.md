@@ -19,7 +19,7 @@ Education
 </p>
 <p style="text-align: justify;">
   <ul>
-    <li>M.Sc.(c), Statistics & Social Data Science | KU Leuven</li>
+    <li>M.Sc., Statistics & Social Data Science (QASS) | KU Leuven</li>
   </ul>
 </p>
 <p style="text-align: justify;">
@@ -38,7 +38,7 @@ Skills
 
 <p style="text-align: justify;">
   <ul>
-    <li>Statistics & Data Science (R, Python)</li>
+    <li>Statistics & Data Science (R, Python, JavaScript for GEE)</li>
   </ul>
 </p>
 <p style="text-align: justify;">
