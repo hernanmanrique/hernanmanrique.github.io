@@ -78,6 +78,7 @@ Programming languages
 <p style="text-align: justify;">
   <ul>
     <li>JavaScript for GEE</li>
+    </ul>
     </p>
 <p style="text-align: justify;">
   <ul>
