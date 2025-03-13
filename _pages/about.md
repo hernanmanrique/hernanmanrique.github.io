@@ -19,7 +19,7 @@ Education
 </p>
 <p style="text-align: justify;">
   <ul>
-    <li>M.Sc., Statistics & Social Data Science | KU Leuven</li>
+    <li>M.Sc., Statistics & Data Science | KU Leuven</li>
   </ul>
 </p>
 <p style="text-align: justify;">
