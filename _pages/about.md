@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an interdisciplinary researcher combining geographic information systems (GIS), spatial data science, remote sensing and ethnographic methods to study the dynamics and impacts of illicit economies, extractive industries and environmental degradation. My work bridges computational analysis and field-based research to better understand how illicit flows persist and reshape governance across regions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a PhD in Conservation Biology (2025) from KU Leuven, along with an MSc in Statistics & Data Science (2025) and an MSc in Sustainable Development (2020) from the same university. I previously earned a BA in Sociology (2015) from the Pontificia Universidad Católica del Perú (PUCP).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a [Postdoctoral Researcher](https://www.globalsecurity.pmb.ox.ac.uk/about-us/our-people/hernan-manrique-lopez) in the Global Security Programme at the University of Oxford.
+
+Although I am not very active on social media, additional information about my research and professional experience is available on my [Google Scholar](https://scholar.google.com/citations?user=6iDYX1AAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-manrique-l%C3%B3pez-06ab8a199/) profiles.
+
+
