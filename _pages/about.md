@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an interdisciplinary researcher combining geographic information systems (GIS), spatial data science, remote sensing and ethnographic methods to study the dynamics and impacts of illicit economies, extractive industries and environmental degradation. My work bridges computational analysis and field-based research to better understand how illicit flows persist and reshape governance across regions.
+I am an interdisciplinary researcher combining geographic information systems (GIS), spatial data science, remote sensing and ethnographic methods to study the dynamics and impacts of illicit economies, extractive industries and environmental change. My work bridges computational analysis and field-based research to better understand how illicit flows persist and reshape governance across regions.
 
 I hold a PhD in Conservation Biology (2025) from KU Leuven, along with an MSc in Statistics & Data Science (2025) and an MSc in Sustainable Development (2020) from the same university. I previously earned a BA in Sociology (2015) from the Pontificia Universidad Católica del Perú (PUCP).
 
