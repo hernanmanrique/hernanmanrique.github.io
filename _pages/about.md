@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Spatial Data Science, Machine Learning, Global Security & Environmental Change
+subtitle: "<i>Spatial Data Science, Machine Learning, Global Security & Environmental Change</i>"
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
