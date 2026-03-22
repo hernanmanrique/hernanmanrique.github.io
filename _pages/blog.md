@@ -112,7 +112,7 @@ pagination:
     {% endif %}
     {% assign post = first_post %}
 
-{% comment %}
+
     {% for post in postlist %}
 
     {% if post.external_source == blank %}
