@@ -20,13 +20,15 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Hello and welcome to my website! 
 
 I am an interdisciplinary researcher combining geographic information systems (GIS), spatial data science, remote sensing and ethnographic methods to study the dynamics and impacts of illicit economies, extractive industries and environmental change. My work bridges computational analysis and field-based research to better understand how illicit flows persist and reshape governance across regions.
 
