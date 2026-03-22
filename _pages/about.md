@@ -34,6 +34,6 @@ I hold a PhD in Conservation Biology (2025) from KU Leuven, along with an MSc in
 
 I am currently a [Postdoctoral Researcher](https://www.globalsecurity.pmb.ox.ac.uk/about-us/our-people/hernan-manrique-lopez) in the Global Security Programme at the University of Oxford.
 
-Although I am not very active on social media, additional information about my research and professional experience is available on my [Google Scholar](https://scholar.google.com/citations?user=6iDYX1AAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-manrique-l%C3%B3pez-06ab8a199/) profiles.
+Additional information about my research and professional experience is available on my [Google Scholar](https://scholar.google.com/citations?user=6iDYX1AAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-manrique-l%C3%B3pez-06ab8a199/) profiles.
 
 
