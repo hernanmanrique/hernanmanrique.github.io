@@ -103,14 +103,16 @@ pagination:
 
   <ul class="post-list">
 
-#    {% if page.pagination.enabled %}         
-#     {% assign postlist = paginator.posts %}
+    {% if page.pagination.enabled %}         
+     {% assign postlist = paginator.posts %}
     {% assign first_post = paginator.posts | first %}  
     {% assign other_posts = paginator.posts | slice: 1, paginator.posts.size %}
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
+    {% assign post = first_post %}
 
+{% comment %}
     {% for post in postlist %}
 
     {% if post.external_source == blank %}
@@ -188,6 +190,7 @@ pagination:
     </li>
 
     {% endfor %}
+    {% endcomment %}
 
   </ul>
 
