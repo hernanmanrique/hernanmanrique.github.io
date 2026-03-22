@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Hernán's blog # blog_name will be displayed in your blog page
-blog_description: Writing sabout DL, ML and GIS with applications
+blog_description: Writing sabout DL, ML and GIS with applications to global security and environmental issues
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
