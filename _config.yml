@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Hernán's blog # blog_name will be displayed in your blog page
-blog_description: Writing sabout DL, ML and GIS with applications to global security and environmental issues
+blog_name: My blog # blog_name will be displayed in your blog page
+blog_description: Mostly writings about global security and environmental issues using Machine Learning and GIS
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
