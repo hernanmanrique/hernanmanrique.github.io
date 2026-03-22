@@ -103,8 +103,10 @@ pagination:
 
   <ul class="post-list">
 
-    {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
+#    {% if page.pagination.enabled %}         
+#     {% assign postlist = paginator.posts %}
+    {% assign first_post = paginator.posts | first %}  
+    {% assign other_posts = paginator.posts | slice: 1, paginator.posts.size %}
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
