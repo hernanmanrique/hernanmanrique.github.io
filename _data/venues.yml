@@ -1,9 +1,45 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Politai":
+  color: "#6b5b95"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"BIFEA":
+  color: "#588c7e"
 
-"Vision":
-  color: "#009f36"
+"C&D":
+  color: "#d9822b"
+
+"JLAS":
+  color: "#34495e"
+
+"JIED":
+  color: "#c0392b"
+
+"DS":
+  color: "#7f8c8d"
+
+"IJDP":
+  url: https://www.sciencedirect.com/journal/international-journal-of-drug-policy
+  color: "#e8702a"
+
+"EnvPol":
+  color: "#2e8b57"
+
+"AppGeog":
+  color: "#3178c6"
+
+"BLAR":
+  color: "#8e44ad"
+
+"EIS":
+  color: "#556270"
+
+"ERL":
+  color: "#1b998b"
+
+"AEE":
+  color: "#4caf50"
+
+"Geoforum":
+  color: "#2980b9"
+
+"LUP":
+  color: "#b5651d"
