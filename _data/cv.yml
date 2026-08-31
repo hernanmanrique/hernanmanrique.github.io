@@ -1,10 +1,10 @@
 cv:
   name: Hernán Manrique
-  label: Postdoctoral Researcher
+  label: Postdoctoral Researcher\n(Global Security Programme)
   email: hernan.manrique@pmb.ox.ac.uk
   location: Oxford, UK
   image: ""
-  summary: Interdisciplinary researcher working at the intersection of GIS, machine learning, spatial data science and qualitative methods
+  summary: Interdisciplinary researcher working at the intersection of GIS, machine learning, spatial data science and qualitative methods for the study of global security, extractive industries, illicit economies and environmental change
 
   social_networks:
     - network: LinkedIn
