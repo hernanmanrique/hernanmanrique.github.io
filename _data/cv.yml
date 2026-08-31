@@ -1,6 +1,6 @@
 cv:
   name: Hernán Manrique
-  label: Postdoctoral Researcher\n(Global Security Programme)
+  label: Postdoctoral Researcher, Global Security Programme (University of Oxford)
   email: hernan.manrique@pmb.ox.ac.uk
   location: Oxford, UK
   image: ""
@@ -71,7 +71,7 @@ cv:
 
       - company: Interuniversity Social Science Council
         position: Main Researcher
-        location: Peru
+        location: Lima, Peru
         start_date: 2023
         end_date: 2024
         highlights:
@@ -104,7 +104,7 @@ cv:
 
       - company: Interuniversity Social Science Council
         position: Main Researcher
-        location: Peru
+        location: Lima, Peru
         start_date: 2017
         end_date: 2018
         highlights:
