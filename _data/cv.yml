@@ -4,258 +4,175 @@ cv:
   email: hernan.manrique@pmb.ox.ac.uk
   location: Oxford, UK
   image: ""
-  summary: Interdisciplinary researcher working at the intersection of GIS, machine learning, spatial data science and qualitative methods 
+  summary: Interdisciplinary researcher working at the intersection of GIS, machine learning, spatial data science and qualitative methods
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: hernán-manrique-lópez-06ab8a199
+    - network: GitHub
+      username: hernanmanrique
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: KU Leuven
+        location: Leuven, Belgium
+        url: https://www.kuleuven.be/
+        area: Ecology, Evolution and Biodiversity Conservation (Department of Biology)
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2021
+        end_date: 2025
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: KU Leuven
+        location: Leuven, Belgium
+        url: https://www.kuleuven.be/
+        area: Statistics and Data Science
+        studyType: MSc
+        start_date: 2020
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Cum laude
+
+      - institution: KU Leuven
+        location: Leuven, Belgium
+        url: https://www.kuleuven.be/
+        area: Sustainable Development
+        studyType: MSc
+        start_date: 2018
+        end_date: 2020
+        highlights:
+          - Magna cum laude
+
+      - institution: Pontifical Catholic University of Peru (PUCP)
+        location: Lima, Peru
+        area: Sociology
+        studyType: Bachelor / Licenciate
+        start_date: 2010
+        end_date: 2015
+        highlights:
+          - With honors
 
     Experience:
-
-      # ===== YOUR REAL EXPERIENCE =====
       - company: University of Oxford
-        position: Postdoctoral Researcher
+        position: Postdoctoral Researcher, Global Security Programme
         location: Oxford, UK
-        start_date: 2025-12
+        start_date: 2026-01
         end_date: present
-        summary: Contributing to international projects on illicit flows, global security, and spatial data science.
         highlights:
-          - Worked on the 'Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World' project (XCEPT-funded)
-          - Worked on the 'Illicit Flows and Security in Latin America and the Caribbean' project (CAF – Development Bank of Latin America and the Caribbean)
-
+          - "Research project: 'Contested Cross-border Spaces, Illicit Flows, and Order in the Contemporary World' (XCEPT-funded)"
+          - "Research project: 'Illicit Flows and Security in Latin America and the Caribbean' (CAF – Development Bank of Latin America and the Caribbean)"
 
       - company: KU Leuven
-        position: Doctoral Researcher (PhD)
+        position: Full-time FWO PhD Researcher
         location: Leuven, Belgium
-        start_date: 2021-11
-        end_date: 2025-12
-        summary: Research on social and environmental impacts of coca cultivation and coca trafficking in the Peruvian Amazon.
+        start_date: 2021
+        end_date: 2025
         highlights:
-          - Interdisciplinary research combining GIS, statistics, and qualitative methods
-          - Analysis of land use change, deforestation, and illicit economies
-          - Fieldwork-based research on environmental and social dynamics of illicit economies
-          - Published >6 peer-reviewed publications
-    
+          - "Research project: 'Between Conservation and Extraction: Addressing socioecological dynamics of illicit economies and opportunities for rural development in Protected Areas of the Peruvian Amazon'"
 
-      - company: Belgian Biodiversity Platform
-        position: Intern
-        location: Brussels, Belgium
-        start_date: 2020-11
-        end_date: 2021-01
+      - company: Interuniversity Social Science Council
+        position: Main Researcher
+        location: Peru
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - Developed bibliographic databases on biodiversity dynamics, drivers, and threats
-          - Supported data organization and research synthesis
+          - "Research project: 'Minería ilegal y cultivo de coca en la zona de amortiguamiento de la Reserva Comunal El Sira: exploración de sus mecanismos de penetración y sus impactos en la pérdida de bosques'"
+
+      - company: Pontificia Universidad Católica del Perú & University of Reading
+        position: Main Researcher
+        location: Lima, Peru
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - "Research project: 'La Empresa Nacional de la Coca (ENACO) y el fracaso del monopolio estatal de la hoja de coca en Perú: una mirada a los debates contemporáneos'"
+
+      - company: Center for International Forestry Research (CIFOR)
+        position: Consultant Researcher
+        location: Lima, Peru
+        start_date: 2017
+        end_date: 2018
+        highlights:
+          - "Research project: 'Subnational governments and Nationally Determined Contributions'"
+          - "Research project: 'Rights abuse allegations in the context of REDD+ readiness and implementation'"
 
       - company: Universidad del Pacífico
-        position: Junior Research Assistant
+        position: Assistant Researcher (to Dr. Cynthia Sanborn)
         location: Lima, Peru
-        start_date: 2017-09
-        end_date: 2018-09
+        start_date: 2017
+        end_date: 2018
         highlights:
-          - Research assistance on political economy of Chinese investments in extractive industries
-          - Data collection and literature review
+          - Research on the implementation of Free, Prior, and Informed Consent (FPIC) and Chinese investments in mining in Latin America
 
-      - company: CIFOR - Center for International Forestry Research
-        position: Research Consultant
-        location: Lima, Peru
-        start_date: 2017-08
-        end_date: 2018-04
+      - company: Interuniversity Social Science Council
+        position: Main Researcher
+        location: Peru
+        start_date: 2017
+        end_date: 2018
         highlights:
-          - Built database of Nationally Determined Contributions (NDCs) across 180+ countries
-          - Contributed to REDD+ comparative global study
-          - Conducted research on subnational governance and climate policy
-          - Participated in interdisciplinary consulting team producing policy-relevant outputs
+          - "Research project: 'Derrames de petróleo y afectación a la salud materno infantil en pueblos indígenas de la Amazonía peruana: un análisis exploratorio desde los determinantes de la salud'"
 
       - company: Pontificia Universidad Católica del Perú
-        position: Research & Teaching Assistant
+        position: Assistant Researcher (to Dr. Maritza Paredes)
         location: Lima, Peru
-        start_date: 2015-09
-        end_date: 2017-12
-        summary: Research and teaching support across multiple projects on development, governance, and extractive industries in Peru.
-        highlights:
-          - Designed and implemented fieldwork on alternative development and coca eradication in the Upper Huallaga region
-          - Conducted research on indigenous governance in Bolivia within an international comparative project (Université Laval)
-          - Contributed to publications in book chapters and peer-reviewed journals
-          - Supported research on conflicts in extractive industries and inequality (GICO-PUCP)
-          - Organized academic events and managed research group outputs
-          - Teaching assistant for undergraduate courses in sociology, fieldwork methods, and research methodology
-
-      - company: FAO (Food and Agriculture Organization)
-        position: Consultant
-        location: Lima, Peru
-        start_date: 2016-04
-        end_date: 2016-04
-        highlights:
-          - Collected and systematized data for REDD+ Needs Assessment in Peru
-          - Contributed to preparation of draft REDD+ assessment report
-      # ===== OLD TEMPLATE (COMMENTED) =====
-      # - company: Institute for Advanced Study, Princeton University
-      #   position: Professor of Theoretical Physics
-      #   location: Princeton University, NJ
-      #   start_date: 1933
-      #   end_date: 1955
-
-      # - company: California Institute of Technology
-      #   position: Visiting Professor
-      #   location: Pasadena, California, US
-      #   start_date: 1933
-      #   end_date: 1933
-
-      # - company: Kaiser Wilhelm Institute for Physics
-      #   position: Director
-      #   location: Berlin, Germany
-      #   start_date: 1917
-      #   end_date: 1933
-
-      # - company: Karl-Ferdinand University
-      #   position: Professor of Theoretical Physics
-      #   location: Prague, Czechoslovakia
-      #   start_date: 1911
-      #   end_date: 1917
-
-      # - company: University of Zurich
-      #   position: Associate Professor of Theoretical Physics
-      #   location: Zurich, Switzerland
-      #   start_date: 1909
-      #   end_date: 1911
-
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+        start_date: 2015
+        end_date: 2016
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: MapBiomas Research Competition – Second Place
+        date: 2025
+        awarder: MapBiomas Peru
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Short Research Project Grant
+        date: 2023
+        awarder: CIES, Lima, Peru
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: FWO Fundamental Research Grant
+        date: 2021
+        awarder: Research Foundation Flanders, Belgium
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Distinction for Academic Publications
+        date: 2021
+        awarder: Universidad del Pacífico, Lima, Peru
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: M&S Summer School Grant
+        date: 2020
+        awarder: KU Leuven, Belgium
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: M&S Summer School Grant
+        date: 2019
+        awarder: KU Leuven, Belgium
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: VLIR-UOS Scholarship
+        date: 2018
+        awarder: KU Leuven, Belgium
 
-      - name: English
-        summary: "Fluent"
+      - title: Short Research Project Grant
+        date: 2018
+        awarder: CIES, Lima, Peru
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Open Society Foundations Scholarship
+        date: 2016
+        awarder: CIDE, Aguascalientes, Mexico
+
+      - title: PADET Research Grant
+        date: 2015
+        awarder: Pontifical Catholic University of Peru, Lima, Peru
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: "Summer School: Learning from Geoenvironmental Data — Tools for a Changing Planet"
+        issuer: Venice International University
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: "Postgraduate course: Drug Policy, Health and Human Rights"
+        issuer: CIDE, Mexico
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Languages:
+      - name: Spanish
+        summary: Native
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: English
+        summary: Fluent
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: French
+        summary: B2
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dutch
+        summary: B2
