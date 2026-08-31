@@ -117,15 +117,23 @@ cv:
         end_date: 2016
 
     Grants, scholarships & awards:
+      - title: FWO Fundamental Postdoctoral Research Grant 
+        date: 2026
+        awarder: Research Foundation Flanders, Belgium
+
       - title: MapBiomas Research Competition – Second Place
         date: 2025
         awarder: MapBiomas Peru
+
+      - title: FWO Fundamental PhD Research Grant (Renewal)
+        date: 2023
+        awarder: Research Foundation Flanders, Belgium
 
       - title: Short Research Project Grant
         date: 2023
         awarder: CIES, Lima, Peru
 
-      - title: FWO Fundamental Research Grant
+      - title: FWO Fundamental PhD Research Grant
         date: 2021
         awarder: Research Foundation Flanders, Belgium
 
