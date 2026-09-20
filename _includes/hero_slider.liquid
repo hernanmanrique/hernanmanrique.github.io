@@ -1,0 +1,36 @@
+{% comment %}
+  Homepage hero image slider.
+  Enable on a page by adding to its front matter:
+
+  hero_slider:
+    enabled: true
+    images:
+      - src: /assets/img/your-photo.jpg
+        alt: Descriptive alt text
+        caption: Optional short caption
+{% endcomment %}
+{% if page.hero_slider and page.hero_slider.enabled and page.hero_slider.images.size > 0 %}
+  <div class="hero-slider" role="group" aria-label="Photo slideshow">
+    {% for image in page.hero_slider.images %}
+      <figure class="hero-slide{% if forloop.first %} active{% endif %}">
+        <img src="{{ image.src }}" alt="{{ image.alt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" />
+        {% if image.caption %}
+          <figcaption class="hero-caption">{{ image.caption }}</figcaption>
+        {% endif %}
+      </figure>
+    {% endfor %}
+
+    {% if page.hero_slider.images.size > 1 %}
+      <div class="hero-dots">
+        {% for image in page.hero_slider.images %}
+          <button
+            type="button"
+            class="hero-dot{% if forloop.first %} active{% endif %}"
+            data-slide="{{ forloop.index0 }}"
+            aria-label="Show slide {{ forloop.index }}"
+          ></button>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+{% endif %}

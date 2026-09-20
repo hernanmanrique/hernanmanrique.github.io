@@ -16,6 +16,25 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+# Homepage hero slider — PLACEHOLDER images from Wikimedia Commons, just to preview
+# how it looks. Swap `src` for your own fieldwork/research photos in assets/img/
+# before publishing (drop the file there and change the path to e.g. /assets/img/your-photo.jpg).
+hero_slider:
+  enabled: true
+  images:
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Radcliffe%20Camera%2C%20Oxford%2C%20UK.jpg
+      alt: Radcliffe Camera at the University of Oxford
+      caption: "University of Oxford"
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20the%20Amazon%20Rainforest.jpg
+      alt: Aerial view of the Amazon rainforest
+      caption: "Fieldwork in the Peruvian Amazon"
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/ISS047-E-75441%20-%20View%20of%20Earth.jpg
+      alt: Satellite view of Earth from the International Space Station
+      caption: "Remote sensing & spatial data"
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Earth%20Topographic%20Map.jpg
+      alt: Topographic map of the Earth
+      caption: "GIS & spatial analysis"
+
 announcements:
   enabled: false # no real news items yet — set back to true once you add one to _news
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
