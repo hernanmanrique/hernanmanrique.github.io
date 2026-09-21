@@ -2,19 +2,21 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-  </header>
-
-  {% include hero_slider.liquid %}
+  {% if page.hero_slider and page.hero_slider.enabled %}
+    {% include hero_slider.liquid %}
+  {% else %}
+    <header class="post-header">
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    </header>
+  {% endif %}
 
   <article>
     {% if page.profile %}

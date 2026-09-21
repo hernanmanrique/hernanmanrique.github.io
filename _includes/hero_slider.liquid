@@ -1,9 +1,13 @@
 {% comment %}
-  Homepage hero image slider.
+  Full-bleed homepage hero image slider with the name/subtitle/CTA overlaid
+  directly on the photo, plus arrow + dot navigation.
+
   Enable on a page by adding to its front matter:
 
   hero_slider:
     enabled: true
+    cta_text: See my publications
+    cta_url: /publications/
     images:
       - src: /assets/img/your-photo.jpg
         alt: Descriptive alt text
@@ -14,13 +18,39 @@
     {% for image in page.hero_slider.images %}
       <figure class="hero-slide{% if forloop.first %} active{% endif %}">
         <img src="{{ image.src }}" alt="{{ image.alt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" />
-        {% if image.caption %}
-          <figcaption class="hero-caption">{{ image.caption }}</figcaption>
-        {% endif %}
       </figure>
     {% endfor %}
 
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+      <h1 class="hero-title">
+        {% if site.title == 'blank' %}
+          {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      {% if page.subtitle %}
+        <p class="hero-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+      {% if page.hero_slider.cta_text and page.hero_slider.cta_url %}
+        <a class="hero-cta" href="{{ page.hero_slider.cta_url | relative_url }}">{{ page.hero_slider.cta_text }}</a>
+      {% endif %}
+    </div>
+
+    <div class="hero-captions">
+      {% for image in page.hero_slider.images %}
+        {% if image.caption %}
+          <span class="hero-caption-text{% if forloop.first %} active{% endif %}">{{ image.caption }}</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+
     {% if page.hero_slider.images.size > 1 %}
+      <button type="button" class="hero-arrow hero-arrow-prev" aria-label="Previous slide">&#8249;</button>
+      <button type="button" class="hero-arrow hero-arrow-next" aria-label="Next slide">&#8250;</button>
+
       <div class="hero-dots">
         {% for image in page.hero_slider.images %}
           <button

@@ -16,23 +16,26 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-# Homepage hero slider — PLACEHOLDER images from Wikimedia Commons, just to preview
-# how it looks. Swap `src` for your own fieldwork/research photos in assets/img/
-# before publishing (drop the file there and change the path to e.g. /assets/img/your-photo.jpg).
+# Homepage hero slider — full-bleed photo carousel with name/subtitle overlaid,
+# inspired by lab/PI sites like https://lmdavalos.github.io/. PLACEHOLDER images
+# from Wikimedia Commons for now — swap `src` for your own fieldwork/research
+# photos in assets/img/ before publishing (e.g. /assets/img/your-photo.jpg).
 hero_slider:
   enabled: true
+  cta_text: See my publications
+  cta_url: /publications/
   images:
-    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Radcliffe%20Camera%2C%20Oxford%2C%20UK.jpg
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Radcliffe%20Camera%2C%20Oxford%2C%20UK.jpg?width=1920
       alt: Radcliffe Camera at the University of Oxford
       caption: "University of Oxford"
-    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20the%20Amazon%20Rainforest.jpg
-      alt: Aerial view of the Amazon rainforest
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/AMAZON%20RAINFOREST%20FOG%20-%20panoramio.jpg?width=1920
+      alt: Misty aerial view of the Amazon rainforest
       caption: "Fieldwork in the Peruvian Amazon"
-    - src: https://commons.wikimedia.org/wiki/Special:FilePath/ISS047-E-75441%20-%20View%20of%20Earth.jpg
-      alt: Satellite view of Earth from the International Space Station
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Earth%20at%20Night.jpg?width=1920
+      alt: Composite satellite image of Earth at night, showing city lights
       caption: "Remote sensing & spatial data"
-    - src: https://commons.wikimedia.org/wiki/Special:FilePath/Earth%20Topographic%20Map.jpg
-      alt: Topographic map of the Earth
+    - src: https://commons.wikimedia.org/wiki/Special:FilePath/World%20elevation%20map.png?width=1920
+      alt: Colored world elevation map
       caption: "GIS & spatial analysis"
 
 announcements:
