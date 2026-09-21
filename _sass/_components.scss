@@ -260,32 +260,48 @@ ul.task-list input[type="checkbox"] {
   position: relative;
 }
 
-// Hero slider (homepage) — full-bleed, name/subtitle/CTA overlaid on photo
+// Hero slider (homepage) — full-bleed, full-viewport-height photo carousel
+// inspired by lab/PI sites like https://lmdavalos.github.io/
 
 .hero-slider {
   position: relative;
+  width: 100vw;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  width: 100vw;
-  height: clamp(420px, 88vh, 760px);
-  margin-bottom: 2.5rem;
+  height: 92vh;
+  min-height: 480px;
+  max-height: 900px;
+  margin-bottom: 3rem;
   overflow: hidden;
   background: #000;
+
+  .hero-slides {
+    position: absolute;
+    inset: 0;
+  }
 
   .hero-slide {
     position: absolute;
     inset: 0;
     margin: 0;
     opacity: 0;
-    transition: opacity 1.6s ease-in-out;
+    transition: opacity 1.4s ease-in-out;
 
     img {
       width: 100%;
       height: 100%;
       object-fit: cover;
-      display: block;
+    }
+
+    // Vignette: darkens the edges/corners of each photo so the overlaid
+    // text stays legible and the image reads as a single framed shot.
+    .hero-vignette {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 42%, rgba(0, 0, 0, 0.15) 70%, rgba(0, 0, 0, 0.6) 100%);
     }
 
     &.active {
@@ -293,98 +309,91 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  // Extra bottom-weighted gradient so the title/subtitle/CTA block always
+  // has enough contrast, on top of the per-slide vignette.
   .hero-overlay {
     position: absolute;
     inset: 0;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.35) 55%, rgba(0, 0, 0, 0.78) 100%);
     pointer-events: none;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.05) 30%, rgba(0, 0, 0, 0.65) 100%);
+    z-index: 1;
   }
 
   .hero-content {
     position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 12%;
-    padding: 0 6%;
+    left: 6%;
+    right: 6%;
+    bottom: 14%;
+    max-width: 640px;
+    color: #fff;
     z-index: 2;
-    max-width: 46rem;
   }
 
   .hero-title {
-    color: #fff;
+    font-size: 3.2rem;
     font-weight: 700;
-    font-size: clamp(2rem, 5vw, 3.4rem);
-    line-height: 1.05;
-    margin: 0 0 0.5rem 0;
-    text-shadow: 0 2px 18px rgba(0, 0, 0, 0.45);
+    line-height: 1.1;
+    margin: 0 0 0.5rem;
+    color: #fff;
+    text-shadow: 0 2px 14px rgba(0, 0, 0, 0.55);
   }
 
   .hero-subtitle {
+    font-size: 1.15rem;
+    font-weight: 300;
+    margin: 0 0 1.5rem;
     color: rgba(255, 255, 255, 0.92);
-    font-size: clamp(1rem, 2vw, 1.25rem);
-    font-style: italic;
-    margin: 0 0 1.25rem 0;
-    text-shadow: 0 1px 10px rgba(0, 0, 0, 0.4);
+    text-shadow: 0 1px 10px rgba(0, 0, 0, 0.55);
   }
 
   .hero-cta {
     display: inline-block;
-    padding: 0.6rem 1.4rem;
-    border-radius: 3px;
-    background: #fff;
-    color: var(--global-text-color, #1c1c1d);
-    font-weight: 500;
+    padding: 0.65rem 1.6rem;
+    border: 1.5px solid #fff;
+    border-radius: 2px;
+    color: #fff;
     text-decoration: none;
-    transition:
-      transform 0.15s ease,
-      background 0.15s ease,
-      color 0.15s ease;
-
-    &:hover {
-      background: var(--global-theme-color, #333);
-      color: #fff;
-      text-decoration: none;
-      transform: translateY(-1px);
-    }
-  }
-
-  .hero-captions {
-    position: absolute;
-    right: 6%;
-    bottom: 12%;
-    z-index: 2;
-  }
-
-  .hero-caption-text {
-    display: none;
-    font-size: 0.85rem;
-    color: rgba(255, 255, 255, 0.85);
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    font-size: 0.8rem;
+    transition: all 0.25s ease;
 
-    &.active {
-      display: inline-block;
+    &:hover {
+      background: #fff;
+      color: #111;
+      text-decoration: none;
     }
+  }
+
+  .hero-caption {
+    position: absolute;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    margin: 0;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.02em;
+    color: rgba(255, 255, 255, 0.85);
+    z-index: 2;
   }
 
   .hero-arrow {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.25);
-    color: #fff;
-    border: none;
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    font-size: 1.6rem;
-    line-height: 1;
-    cursor: pointer;
     z-index: 3;
+    background: rgba(0, 0, 0, 0.25);
+    border: none;
+    color: #fff;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: background 0.15s ease;
+    transition: background 0.2s ease;
 
     &:hover {
       background: rgba(0, 0, 0, 0.5);
@@ -401,8 +410,9 @@ ul.task-list input[type="checkbox"] {
 
   .hero-dots {
     position: absolute;
-    left: 6%;
-    bottom: 5%;
+    left: 50%;
+    bottom: 1.5rem;
+    transform: translateX(-50%);
     display: flex;
     gap: 0.5rem;
     z-index: 3;
@@ -412,7 +422,7 @@ ul.task-list input[type="checkbox"] {
     width: 9px;
     height: 9px;
     padding: 0;
-    border: 1.5px solid rgba(255, 255, 255, 0.7);
+    border: 1.5px solid rgba(255, 255, 255, 0.75);
     border-radius: 50%;
     background: transparent;
     cursor: pointer;
@@ -423,22 +433,28 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .hero-slider {
+    height: 78vh;
+    min-height: 420px;
+
+    .hero-title {
+      font-size: 2.1rem;
+    }
+
+    .hero-subtitle {
+      font-size: 0.95rem;
+    }
+
     .hero-content {
-      bottom: 16%;
-      padding: 0 5%;
-      max-width: 100%;
+      left: 5%;
+      right: 5%;
+      bottom: 12%;
     }
 
     .hero-arrow {
-      width: 36px;
-      height: 36px;
-      font-size: 1.3rem;
-    }
-
-    .hero-captions {
-      display: none;
+      width: 2.2rem;
+      height: 2.2rem;
     }
   }
 }

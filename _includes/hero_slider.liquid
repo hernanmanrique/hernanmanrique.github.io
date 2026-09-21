@@ -1,11 +1,11 @@
 {% comment %}
-  Full-bleed homepage hero image slider with the name/subtitle/CTA overlaid
-  directly on the photo, plus arrow + dot navigation.
-
-  Enable on a page by adding to its front matter:
+  Full-bleed homepage hero image slider. Enable on a page by adding to its
+  front matter:
 
   hero_slider:
     enabled: true
+    title: Your Name
+    subtitle: A short line about you
     cta_text: See my publications
     cta_url: /publications/
     images:
@@ -15,42 +15,33 @@
 {% endcomment %}
 {% if page.hero_slider and page.hero_slider.enabled and page.hero_slider.images.size > 0 %}
   <div class="hero-slider" role="group" aria-label="Photo slideshow">
-    {% for image in page.hero_slider.images %}
-      <figure class="hero-slide{% if forloop.first %} active{% endif %}">
-        <img src="{{ image.src }}" alt="{{ image.alt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" />
-      </figure>
-    {% endfor %}
-
-    <div class="hero-overlay"></div>
-
-    <div class="hero-content">
-      <h1 class="hero-title">
-        {% if site.title == 'blank' %}
-          {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
-        {% else %}
-          {{ site.title }}
-        {% endif %}
-      </h1>
-      {% if page.subtitle %}
-        <p class="hero-subtitle">{{ page.subtitle }}</p>
-      {% endif %}
-      {% if page.hero_slider.cta_text and page.hero_slider.cta_url %}
-        <a class="hero-cta" href="{{ page.hero_slider.cta_url | relative_url }}">{{ page.hero_slider.cta_text }}</a>
-      {% endif %}
-    </div>
-
-    <div class="hero-captions">
+    <div class="hero-slides">
       {% for image in page.hero_slider.images %}
-        {% if image.caption %}
-          <span class="hero-caption-text{% if forloop.first %} active{% endif %}">{{ image.caption }}</span>
-        {% endif %}
+        <figure class="hero-slide{% if forloop.first %} active{% endif %}">
+          <img src="{{ image.src }}" alt="{{ image.alt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" />
+          <div class="hero-vignette"></div>
+          {% if image.caption %}
+            <figcaption class="hero-caption">{{ image.caption }}</figcaption>
+          {% endif %}
+        </figure>
       {% endfor %}
     </div>
 
-    {% if page.hero_slider.images.size > 1 %}
-      <button type="button" class="hero-arrow hero-arrow-prev" aria-label="Previous slide">&#8249;</button>
-      <button type="button" class="hero-arrow hero-arrow-next" aria-label="Next slide">&#8250;</button>
+    <div class="hero-overlay"></div>
 
+    {% if page.hero_slider.title or page.hero_slider.subtitle or page.hero_slider.cta_text %}
+      <div class="hero-content">
+        {% if page.hero_slider.title %}<h1 class="hero-title">{{ page.hero_slider.title }}</h1>{% endif %}
+        {% if page.hero_slider.subtitle %}<p class="hero-subtitle">{{ page.hero_slider.subtitle }}</p>{% endif %}
+        {% if page.hero_slider.cta_text and page.hero_slider.cta_url %}
+          <a class="hero-cta" href="{{ page.hero_slider.cta_url | relative_url }}">{{ page.hero_slider.cta_text }}</a>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% if page.hero_slider.images.size > 1 %}
+      <button type="button" class="hero-arrow hero-arrow-prev" aria-label="Previous slide">&#10094;</button>
+      <button type="button" class="hero-arrow hero-arrow-next" aria-label="Next slide">&#10095;</button>
       <div class="hero-dots">
         {% for image in page.hero_slider.images %}
           <button
