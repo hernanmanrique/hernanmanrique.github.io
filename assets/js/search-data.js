@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-se-está-secando-el-campo-de-marte-una-mirada-desde-el-espacio",
+        
+          title: "¿Se está secando el Campo de Marte? Una mirada desde el espacio",
+        
+        description: "Uso imágenes Sentinel-2 y el índice NDVI para seguir la salud de la vegetación del Campo de Marte, en Jesús María (Lima), entre 2023 y 2026.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/estres-vegetal-campo-de-marte/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
