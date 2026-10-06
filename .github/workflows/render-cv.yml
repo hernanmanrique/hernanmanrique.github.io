@@ -47,3 +47,4 @@ jobs:
           git add -A
           git commit -m "chore: render the latest CV"
           git push
+          
