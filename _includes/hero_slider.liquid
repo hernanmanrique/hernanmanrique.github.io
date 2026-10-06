@@ -18,7 +18,7 @@
     <div class="hero-slides">
       {% for image in page.hero_slider.images %}
         <figure class="hero-slide{% if forloop.first %} active{% endif %}">
-          <img src="{{ image.src }}" alt="{{ image.alt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" />
+          <img src="{{ image.src }}" alt="{{ image.alt }}" loading="eager" />
           <div class="hero-vignette"></div>
           {% if image.caption %}
             <figcaption class="hero-caption">{{ image.caption }}</figcaption>

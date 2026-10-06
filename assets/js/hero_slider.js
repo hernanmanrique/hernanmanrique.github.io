@@ -7,6 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
     var nextBtn = slider.querySelector(".hero-arrow-next");
     if (slides.length < 2) return;
 
+    slider.querySelectorAll(".hero-slide img").forEach(function (img) {
+      img.loading = "eager";
+    });
+
     var current = 0;
     var intervalMs = 4000;
     var timer = null;
@@ -20,12 +24,27 @@ document.addEventListener("DOMContentLoaded", function () {
       if (dots[current]) dots[current].classList.add("active");
     }
 
+    // Only advance once the next photo has finished loading, so the slideshow
+    // never fades to a blank frame while a large image is still downloading.
+    function goTo(index) {
+      var target = slides[(index + slides.length) % slides.length];
+      var img = target.querySelector("img");
+      if (!img || img.complete) {
+        show(index);
+      } else {
+        img.addEventListener("load", function onLoad() {
+          img.removeEventListener("load", onLoad);
+          show(index);
+        });
+      }
+    }
+
     function next() {
-      show(current + 1);
+      goTo(current + 1);
     }
 
     function prev() {
-      show(current - 1);
+      goTo(current - 1);
     }
 
     function start() {
